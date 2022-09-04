@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YoungSmooth
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on a social networking app
+- 👀 I’m a Flutter developer
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me chukwuonyekachi@gmail.com 
 
 <!---
