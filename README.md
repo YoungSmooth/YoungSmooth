@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YoungSmooth
-- 👀 I’m a Flutter developer
+- 👋 Hi, I’m Onyekachi Humphrey Chukwu
+- 👀 I’m a Flutter developer, I build websites, mobile apps, web apps using Flutter.
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me chukwuonyekachi@gmail.com 
 
